@@ -1,0 +1,25 @@
+.card-body{
+    text-align: left;
+}
+.form-label-group{
+    text-align: left;
+    padding-bottom: 7px;
+    font-size: 20px;
+}
+
+.card-title{
+    text-align: left;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.button{
+    padding-right: 15px;
+}
+
+.a{
+    font-size: 20px;
+    text-align: right;
+}
+
